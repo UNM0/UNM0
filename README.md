@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Nunam Rai</h1>
-<h3 align="center">A passionate frontend developer based in Nepal.</h3>
+<h3 align="center">A developer based in Nepal.</h3>
 
 - 🔭 I’m currently working on **tinytotskinderhome school website**
 
